@@ -1,0 +1,7 @@
+Binary search and linear search are two algorithms used to search for an element in a list of elements. The main difference between the two is that binary search requires the list to be sorted, while linear search does not.
+
+Linear search is a simple algorithm that checks each element of the list in turn until it finds the target element or reaches the end of the list. The time complexity of linear search is O(n), where n is the number of elements in the list.
+
+Binary search, on the other hand, is a more efficient algorithm that works by repeatedly dividing the list in half until the target element is found. The time complexity of binary search is O(log n), which is much faster than linear search for large lists.
+
+In summary, binary search is faster than linear search for large lists, but requires the list to be sorted. Linear search is simpler and can be used on unsorted lists, but is slower than binary search for large lists.
