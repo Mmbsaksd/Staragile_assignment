@@ -1,0 +1,36 @@
+Cust_id: C001
+Name: Alice
+Location: New York
+Phone Number: 555-1234
+Last purchase date: 2023-01-15
+
+Cust_id: C002
+Name: Bob
+Location: Los Angeles
+Phone Number: 555-5678
+Last purchase date: 2023-02-20
+
+Cust_id: C003
+Name: Charlie
+Location: Chicago
+Phone Number: 555-9012
+Last purchase date: 2023-03-25
+
+Cust_id: C004
+Name: David
+Location: San Francisco
+Phone Number: 555-3456
+Last purchase date: 2023-04-30
+
+Cust_id: C005
+Name: Eva
+Location: Seattle
+Phone Number: 555-7890
+Last purchase date: 2023-05-05
+
+Cust_id: C006
+Name: Frank
+Location: Miami
+Phone Number: 555-2345
+Last purchase date: 2023-06-10
+
